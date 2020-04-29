@@ -1,0 +1,144 @@
+.header{
+    border-bottom:2px solid #b1191a;
+    margin-bottom: 25px;
+}
+/*floor*/
+.footer{
+    height: 119px;
+    border-top: 2px solid #ccc;
+}
+.nave{
+    height: 42px;
+    background-color: #ececec;
+}
+.use{
+    height: 100%;
+    line-height: 42px;
+    font-size: 18px;
+    padding-left: 12px;
+    font-family: "微软雅黑";
+}
+.login{
+    height: 100%;
+    line-height: 42px;
+    font-size: 14px;
+    font-family: "微软雅黑";
+    padding-right: 10px;
+}
+.login a{
+    color: #b1191a;
+}
+.tit{
+    height: 482px;
+    /*background-color: pink;*/
+    text-align: center;
+}
+.form{
+    height: 447px;
+   transform: translate(0,35px);
+    /*background-color: #61a301;*/
+    font-size: 14px;
+    color: black;
+}
+.users{
+    margin-top: 22px;
+    width: 240px;
+    height: 25px;
+    outline:none;
+    -web-kit-appearance:none;
+    -moz-appearance: none;
+}
+.shuoji{
+    font-size: 14px;
+    margin: 0 400px;
+    border: 1px solid red;
+}
+.q{
+    padding-left: 40px;
+}
+.mi{
+    padding-left: 30px;
+}
+.que{
+    margin-top: 22px;
+    margin-bottom: 16px;
+}
+.form .lafe{
+    position: relative;
+    float: left;
+    width: 164px;
+    height: 14px;
+    transform: translate(607px, 11px);
+
+    /*background-color: #b1191a;*/
+}
+.lafe_font{
+    position: absolute;
+    float: left;
+    font-size: 12px;
+    line-height: 14px;
+    margin-right: 10px;
+    color: black;
+}
+.num{
+    position: absolute;
+    width: 34px;
+    height: 100%;
+    font-size: 12px;
+    line-height: 14px;
+    color: white;
+
+}
+.a{
+    transform: translate(58px,0);
+    background-color: #de1111;
+}
+.b{
+    transform: translate(94px,0);
+    background-color:#40b83f;
+}
+.c{
+    transform: translate(130px,0);
+    background-color:#f79100;
+}
+.tongyi{
+    padding-left: 12px;
+}
+.form>input{
+  margin-left: 112px;
+
+}
+.book{
+    color: #74bded;
+}
+.summit{
+    position: absolute;
+    display: block;
+    width:200px;
+    height: 35px;
+    background-color: #c81623;
+    transform: translate(543px, 45px);
+    text-align: center;
+    line-height: 35px;
+    font-size: 14px;
+    color: #FFFFFF;
+  /* margin: 353px 0 59px 41px;*/
+}
+.list{
+    position: absolute;
+    padding-left: 10px;
+    height: 35px;
+    line-height: 35px;
+    font-size: 14px;
+}
+.jiancha{
+    position: absolute;
+    width: 22px;
+    height: 21px;
+    line-height:20px;
+    text-align: center;
+    font-size: 14px;
+    background-color: red;
+    border-radius: 50%;
+    transform: translate(165px,-25px);
+}
